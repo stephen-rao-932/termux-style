@@ -2,7 +2,6 @@
 
 ## Author  : Stephen Prakash Rao
 ## Github  : @stepen-rao-932
-## facebook: https://www.facebook.com/Stephen.Prakash.Rao.932
 
 ## termux-style installer script
 
@@ -27,7 +26,7 @@ banner () {
     ${BLUE}│${RED}░░█░░█▀▀░█▀▄░█░█░█░█░▄▀▄${ORANGE}░▄▄▄${RED}░${GREEN}▀▀█░░█░░░█░░█░░░█▀▀░░${BLUE}│
     ${BLUE}│${RED}░░▀░░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀${ORANGE}░░░░░${GREEN}▀▀▀░░▀░░░▀░░▀▀▀░▀▀▀░░${BLUE}│
     ${BLUE}└──────────────────────────────────────────────────┘
-    ${BLUE}[${RED}*${BLUE}] ${ORANGE}By- Stephen Prakash Rao ${RED}//${ORANGE} stephen-rao-932"
+    ${BLUE}[${RED}*${BLUE}] ${ORANGE}By- Stephen-Prakash-Rao ${RED}//${ORANGE}stephen-rao-932"
 }
 
 ## Script Termination
